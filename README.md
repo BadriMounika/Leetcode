@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/BadriMounika/Leetcode/tree/master/0136-single-number) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/BadriMounika/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 ## Simulation
 |  |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/BadriMounika/Leetcode/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/BadriMounika/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
