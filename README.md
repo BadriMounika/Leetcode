@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2383-add-two-integers](https://github.com/BadriMounika/Leetcode/tree/master/2383-add-two-integers) |
+## Array
+|  |
+| ------- |
+| [3397-find-the-integer-added-to-array-i](https://github.com/BadriMounika/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
 <!---LeetCode Topics End-->
