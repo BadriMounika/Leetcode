@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0263-ugly-number](https://github.com/BadriMounika/Leetcode/tree/master/0263-ugly-number) |
 | [2383-add-two-integers](https://github.com/BadriMounika/Leetcode/tree/master/2383-add-two-integers) |
 ## Array
 |  |
