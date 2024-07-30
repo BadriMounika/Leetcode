@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/BadriMounika/Leetcode/tree/master/0001-two-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BadriMounika/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/BadriMounika/Leetcode/tree/master/0136-single-number) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/BadriMounika/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/BadriMounika/Leetcode/tree/master/0206-reverse-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/BadriMounika/Leetcode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
