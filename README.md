@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/BadriMounika/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/BadriMounika/Leetcode/tree/master/0263-ugly-number) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/BadriMounika/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2383-add-two-integers](https://github.com/BadriMounika/Leetcode/tree/master/2383-add-two-integers) |
 ## Array
 |  |
