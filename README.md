@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/BadriMounika/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BadriMounika/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/BadriMounika/Leetcode/tree/master/0169-majority-element) |
+| [0496-next-greater-element-i](https://github.com/BadriMounika/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1580-shuffle-the-array](https://github.com/BadriMounika/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/BadriMounika/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/BadriMounika/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/BadriMounika/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/BadriMounika/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BadriMounika/Leetcode/tree/master/0202-happy-number) |
+| [0496-next-greater-element-i](https://github.com/BadriMounika/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1635-number-of-good-pairs](https://github.com/BadriMounika/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Two Pointers
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/BadriMounika/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/BadriMounika/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/BadriMounika/Leetcode/tree/master/0496-next-greater-element-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/BadriMounika/Leetcode/tree/master/1791-richest-customer-wealth) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/BadriMounika/Leetcode/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
