@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1603-running-sum-of-1d-array](https://github.com/BadriMounika/Leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/BadriMounika/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/BadriMounika/Leetcode/tree/master/1791-richest-customer-wealth) |
+| [1899-count-items-matching-a-rule](https://github.com/BadriMounika/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [2048-build-array-from-permutation](https://github.com/BadriMounika/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/BadriMounika/Leetcode/tree/master/2058-concatenation-of-array) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/BadriMounika/Leetcode/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/BadriMounika/Leetcode/tree/master/0058-length-of-last-word) |
+| [1899-count-items-matching-a-rule](https://github.com/BadriMounika/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BadriMounika/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Linked List
 |  |
