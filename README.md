@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/BadriMounika/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/BadriMounika/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/BadriMounika/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/BadriMounika/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0898-transpose-matrix](https://github.com/BadriMounika/Leetcode/tree/master/0898-transpose-matrix) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/BadriMounika/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BadriMounika/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BadriMounika/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/BadriMounika/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/BadriMounika/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/BadriMounika/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 ## Stack
 |  |
 | ------- |
