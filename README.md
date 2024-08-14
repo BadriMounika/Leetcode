@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/BadriMounika/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/BadriMounika/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/BadriMounika/Leetcode/tree/master/0507-perfect-number) |
+| [1013-fibonacci-number](https://github.com/BadriMounika/Leetcode/tree/master/1013-fibonacci-number) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/BadriMounika/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/BadriMounika/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/BadriMounika/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BadriMounika/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BadriMounika/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/BadriMounika/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [1013-fibonacci-number](https://github.com/BadriMounika/Leetcode/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/BadriMounika/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/BadriMounika/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/BadriMounika/Leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -204,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/BadriMounika/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/BadriMounika/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/BadriMounika/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
