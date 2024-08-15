@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/BadriMounika/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/BadriMounika/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BadriMounika/Leetcode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/BadriMounika/Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/BadriMounika/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/BadriMounika/Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/BadriMounika/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/BadriMounika/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/BadriMounika/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BadriMounika/Leetcode/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/BadriMounika/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BadriMounika/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/BadriMounika/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BadriMounika/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/BadriMounika/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/BadriMounika/Leetcode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/BadriMounika/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/BadriMounika/Leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BadriMounika/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
