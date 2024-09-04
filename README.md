@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/BadriMounika/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/BadriMounika/Leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/BadriMounika/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/BadriMounika/Leetcode/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/BadriMounika/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/BadriMounika/Leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/BadriMounika/Leetcode/tree/master/0258-add-digits) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/BadriMounika/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/BadriMounika/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/BadriMounika/Leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/BadriMounika/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/BadriMounika/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/BadriMounika/Leetcode/tree/master/0898-transpose-matrix) |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/BadriMounika/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/BadriMounika/Leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/BadriMounika/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/BadriMounika/Leetcode/tree/master/0268-missing-number) |
 ## Tree
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BadriMounika/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/BadriMounika/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/BadriMounika/Leetcode/tree/master/0067-add-binary) |
 | [1899-count-items-matching-a-rule](https://github.com/BadriMounika/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BadriMounika/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Linked List
