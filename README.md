@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BadriMounika/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/BadriMounika/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/BadriMounika/Leetcode/tree/master/0067-add-binary) |
+| [0242-valid-anagram](https://github.com/BadriMounika/Leetcode/tree/master/0242-valid-anagram) |
 | [1899-count-items-matching-a-rule](https://github.com/BadriMounika/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BadriMounika/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Linked List
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BadriMounika/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BadriMounika/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/BadriMounika/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/BadriMounika/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BadriMounika/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/BadriMounika/Leetcode/tree/master/0496-next-greater-element-i) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BadriMounika/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/BadriMounika/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/BadriMounika/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/BadriMounika/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/BadriMounika/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BadriMounika/Leetcode/tree/master/0268-missing-number) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/BadriMounika/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting
