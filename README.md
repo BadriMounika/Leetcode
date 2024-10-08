@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/BadriMounika/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/BadriMounika/Leetcode/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/BadriMounika/Leetcode/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/BadriMounika/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/BadriMounika/Leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/BadriMounika/Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/BadriMounika/Leetcode/tree/master/0069-sqrtx) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/BadriMounika/Leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/BadriMounika/Leetcode/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BadriMounika/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BadriMounika/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/BadriMounika/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BadriMounika/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/BadriMounika/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
