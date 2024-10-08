@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/BadriMounika/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/BadriMounika/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/BadriMounika/Leetcode/tree/master/1013-fibonacci-number) |
+| [1250-longest-common-subsequence](https://github.com/BadriMounika/Leetcode/tree/master/1250-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/BadriMounika/Leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/BadriMounika/Leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/BadriMounika/Leetcode/tree/master/0242-valid-anagram) |
+| [1250-longest-common-subsequence](https://github.com/BadriMounika/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1899-count-items-matching-a-rule](https://github.com/BadriMounika/Leetcode/tree/master/1899-count-items-matching-a-rule) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/BadriMounika/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Linked List
