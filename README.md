@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/BadriMounika/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/BadriMounika/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/BadriMounika/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0119-pascals-triangle-ii](https://github.com/BadriMounika/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BadriMounika/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/BadriMounika/Leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/BadriMounika/Leetcode/tree/master/0152-maximum-product-subarray) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/BadriMounika/Leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/BadriMounika/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/BadriMounika/Leetcode/tree/master/0063-unique-paths-ii) |
+| [0119-pascals-triangle-ii](https://github.com/BadriMounika/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BadriMounika/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BadriMounika/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/BadriMounika/Leetcode/tree/master/0198-house-robber) |
