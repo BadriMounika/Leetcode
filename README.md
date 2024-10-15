@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/BadriMounika/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/BadriMounika/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/BadriMounika/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/BadriMounika/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/BadriMounika/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/BadriMounika/Leetcode/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/BadriMounika/Leetcode/tree/master/0410-split-array-largest-sum) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/BadriMounika/Leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/BadriMounika/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/BadriMounika/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/BadriMounika/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/BadriMounika/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/BadriMounika/Leetcode/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/BadriMounika/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -273,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/BadriMounika/Leetcode/tree/master/0062-unique-paths) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/BadriMounika/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
